@@ -1,0 +1,7 @@
+C:\Users\Mcintosh\Downloads\СисПром\сп3\3\bin\Debug\3.exe.config
+C:\Users\Mcintosh\Downloads\СисПром\сп3\3\bin\Debug\3.exe
+C:\Users\Mcintosh\Downloads\СисПром\сп3\3\bin\Debug\3.pdb
+C:\Users\Mcintosh\Downloads\СисПром\сп3\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\СисПром\сп3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\СисПром\сп3\3\obj\Debug\3.exe
+C:\Users\Mcintosh\Downloads\СисПром\сп3\3\obj\Debug\3.pdb
